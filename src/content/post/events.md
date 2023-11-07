@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-11-07T01:16:42Z
+publishDate: 2023-11-07T01:23:38Z
 title: Events
 description: A list of Events at Plebnet.dev, both past and present in Discord.
 image: /src/content/post/_images/events.jpg
@@ -21,7 +21,7 @@ description about test event 2
 
 Location: No location
 
-## ## Test Event 2
+## Test Event 2
 
 Date: Nov 11, 2023
 
@@ -29,6 +29,15 @@ Description:
 description about test event 2
 
 Location: No location
+
+## ## Test Event 2
+
+Date: Nov 11, 2023
+
+Description:
+description about test event 2
+
+Location: General
 
 ## Workshop: Intro to Postman
 
