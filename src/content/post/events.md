@@ -4,7 +4,7 @@ title: Events	title: Events
 description: A list of Events at Plebnet.dev, both past and present in Discord.	description: A list of Events at Plebnet.dev, both past and present in Discord.
 @@ -10,30 +11,15 @@ tags:
   - plebnet.dev	  - plebnet.dev
----	---
+---
 
 
 <!-- UPCOMING EVENTS -->	
