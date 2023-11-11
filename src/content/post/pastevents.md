@@ -12,11 +12,6 @@ tags:
 
 # Past Events
 
-## Workshop: The Unwritten Rules of FOSS
-Date: Nov 5, 2023
-Description: Join Bitkarrot for a session on Free Open Source development. Ethics, Etiquette & Engagement Workshop. Workshop Content - Available to Members only.
-Location: Members-Stage
-
 ## Event: October Monthly Meetup
 Date: Oct 28, 2023
 Description: Monthly Meetup - Public meetup in Discord. Open House for guests of Plebnet.dev.
