@@ -32,3 +32,8 @@ Date: Sep 30, 2023
 Description: Open House for guests of Plebnet.dev.
 Location: Public-Stage
 
+
+
+<!-- PAST EVENTS -->
+# Past Events
+
