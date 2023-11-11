@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-11-11T20:31:00Z
+publishDate: 2023-11-11
 title: Past Events
 description: A list of past events at Plebnet.dev, held in Discord.
 image: /src/content/post/_images/past-events.jpg
@@ -10,6 +10,7 @@ tags:
   - plebnet.dev
 ---
 
+<!-- PAST EVENTS -->
 # Past Events
 
 ## Event: September Monthly Meetup
@@ -31,8 +32,3 @@ Location: Members-Stage
 Date: Oct 28, 2023
 Description: Monthly Meetup - Public meetup in Discord. Open House for guests of Plebnet.dev.
 Location: Public-Stage
-
-
-<!-- PAST EVENTS -->
-# Past Events
-
