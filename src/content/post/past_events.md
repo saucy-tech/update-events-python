@@ -1,5 +1,4 @@
 
 
-<!-- UPCOMING EVENTS -->
-# Upcoming Events
+# Past Events
 
