@@ -1,5 +1,5 @@
 ---
-publishDate: [Current Date in YYYY-MM-DDTHH:MM:SSZ format]
+publishDate: 2023-11-11-11:11:11Z
 title: Past Events
 description: A list of past events at Plebnet.dev, held in Discord.
 image: /src/content/post/_images/past-events.jpg
