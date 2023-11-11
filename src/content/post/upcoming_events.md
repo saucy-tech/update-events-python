@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-11-11T22:00:52Z
+publishDate: 2023-11-11T22:03:43Z
 title: Upcoming Events
 description: A list of Events at Plebnet.dev, both past and present in Discord.
 image: /src/content/post/_images/events.jpg
@@ -9,6 +9,8 @@ tags:
   - events
   - plebnet.dev
 ---
+
+
 
 
 
