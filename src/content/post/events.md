@@ -10,7 +10,8 @@ tags:
   - plebnet.dev
 ---
 
-+++Upcoming Events+++
+<!-- UPCOMING EVENTS -->
+# Upcoming Events
 
 ## Workshop: The Unwritten Rules of FOSS
 Date: Nov 5, 2023
@@ -22,7 +23,8 @@ Date: Nov 18, 2023
 Description: Monthly Meetup...
 Location: Public-Stage
 
-+++Past Events+++
+<!-- PAST EVENTS -->
+# Past Events
 
 ## Event: October Monthly Meetup
 Date: Oct 28, 2023
