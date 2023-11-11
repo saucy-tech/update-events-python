@@ -1,4 +1,5 @@
 ---
+---
 publishDate: 2023-10-21T00:00:00Z
 title: Events
 description: A list of Events at Plebnet.dev, both past and present in Discord.
@@ -10,30 +11,15 @@ tags:
   - plebnet.dev
 ---
 
-<!-- UPCOMING EVENTS -->
+---
+
 # Upcoming Events
 
-## Workshop: The Unwritten Rules of FOSS
-Date: Nov 5, 2023
-Description: Join Bitkarrot for a session...
-Location: Members-Stage
+## Test Event 2
 
-## Event: November Monthly Meetup
-Date: Nov 18, 2023
-Description: Monthly Meetup...
-Location: Public-Stage
+Date: Nov 11, 2023
 
-<!-- PAST EVENTS -->
-# Past Events
+Description:
+description about test event 2
 
-## Event: October Monthly Meetup
-Date: Oct 28, 2023
-Description: Monthly Meetup...
-Location: Public-Stage
-
-## Workshop: Intro to Docker
-Date: Oct 21, 2023
-Description: Docker has become...
-Location: Members-Stage
-
-...
+Location: General
