@@ -1,5 +1,5 @@
 ---
-publishDate: 2023-11-13T12:26:41Z
+publishDate: 2023-11-13T12:29:08Z
 title: Events
 description: A list of Events at Plebnet.dev, both past and present in Discord.
 image: /src/content/post/_images/events.jpg
@@ -15,7 +15,7 @@ tags:
 Test Event 3<br>
 ID: 1172996701389344768<br>
 Date: Nov 13, 2023<br>
-Description:<br>
+Description:
 test event 3 description<br>
 Location: General
 
