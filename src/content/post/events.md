@@ -12,7 +12,7 @@ tags:
 
 # Upcoming Events
 
-Test Event 3\n
+Test Event 3 \n\n
 ID: 1172996701389344768
 Date: Nov 13, 2023
 Description:
